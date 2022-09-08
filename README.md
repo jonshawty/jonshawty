@@ -8,7 +8,7 @@ let jonshawty = {
    coutry: 'Brasil',
    state: 'Espirito Santo',
    city: 'Alegre',
-   actualStack: ['C#', 'PHP', 'MySql'],
+   actualStack: ['HTML', 'BOOTSTRAP', 'PHP'],
    futureStack: ['Vue.JS', 'React.JS', 'Node.JS'],
    hobbies: ['Astronomy', 'Musics', 'Games', 'Beers', 'Gym']
 }
