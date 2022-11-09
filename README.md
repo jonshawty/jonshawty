@@ -38,7 +38,6 @@ let jonshawty = {
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
-   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonshawty&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   </div>
 
   </div>
