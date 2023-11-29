@@ -4,12 +4,12 @@
 
 ```js
 let jonshawty = {
-   age: 21,
+   age: 22,
    coutry: 'Brasil',
    state: 'Espirito Santo',
    city: 'Alegre',
    actualStack: ['Angular', 'Spring', 'TypeSc'],
-   futureStack: ['Vue.JS', 'React.JS', 'Node.JS'],
+   futureStack: ['ApiGee', 'Python', 'Node.JS'],
    hobbies: ['Astronomy', 'Musics', 'Games', 'Beers', 'Gym']
 }
 ```
